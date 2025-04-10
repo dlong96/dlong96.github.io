@@ -1,9 +1,4 @@
----
- layout: post
- title: "From Consulting to In-House: A Data Analyst’s Shift in Role, Thinking, and Frustration"
- subtitle: "Observations, confusion, and the small realizations in between"
- tags: career
- ---
+
  
  I spent 4+ years doing data work in consulting — building dashboards, answering business questions, closing the file. But something always felt off. Like the real decisions were happening elsewhere.
  
