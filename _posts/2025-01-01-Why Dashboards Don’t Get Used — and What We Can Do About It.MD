@@ -1,10 +1,3 @@
----
-layout: post
-title: Why Dashboards Don’t Get Used — and What We Can Do About It
-tags: [Career]
-comments: true
----
-
 After a few years working as a data analyst in consulting, I started noticing a pattern:
 Even well-designed dashboards sometimes go completely unused.
 At first, I thought: maybe the analysis wasn’t helpful enough. But the more I worked across projects, the clearer it became — the gap wasn’t just technical. It was often in expectations, communication, and context.
