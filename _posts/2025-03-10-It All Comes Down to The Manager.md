@@ -1,9 +1,5 @@
----
- layout: post
- title: "It All Comes Down to The Manager"
- subtitle: "Why a  Manager Can Make or Break Your Work Experience — And How to Find Out in Interviews"
- tags: career
- ---
+
+
  
 
 # Why a  Manager Can Make or Break Your Work Experience — And How to Find Out in Interviews
