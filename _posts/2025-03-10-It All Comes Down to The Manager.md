@@ -1,8 +1,5 @@
 
-
- 
-
-# Why a  Manager Can Make or Break Your Work Experience — And How to Find Out in Interviews
+Why a  Manager Can Make or Break Your Work Experience — And How to Find Out in Interviews
 
 Over the past few months, I’ve had the opportunity to connect with 20+ data analysts through coffee chats, where we shared our work experiences, challenges, and career journeys. One recurring theme emerged across all these conversations:  
 **The biggest differentiator between good and bad work experiences is the support you get from your manager.**
