@@ -5,6 +5,9 @@ tags: [Career]
 comments: true
 ---
 
+After a few years working as a data analyst in consulting, I started noticing a pattern:
+Even well-designed dashboards sometimes go completely unused.
+At first, I thought: maybe the analysis wasn’t helpful enough. But the more I worked across projects, the clearer it became — the gap wasn’t just technical. It was often in expectations, communication, and context.
 
 <div style="background-color:#fef9e7; border-left: 4px solid #f39c12; padding: 1em 1.2em; margin: 2em 0; border-radius: 6px;">
 
@@ -23,9 +26,6 @@ comments: true
 </div>
 
 
-After a few years working as a data analyst in consulting, I started noticing a pattern:
-Even well-designed dashboards sometimes go completely unused.
-At first, I thought: maybe the analysis wasn’t helpful enough. But the more I worked across projects, the clearer it became — the gap wasn’t just technical. It was often in expectations, communication, and context.
 
 Here are the top three reasons I’ve seen why dashboards get ignored, and how I’ve learned to respond:
 
